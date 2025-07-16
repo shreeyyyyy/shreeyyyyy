@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 👨‍💻 My Coding Profiles
+
+- 💻 [HackerRank](https://www.hackerrank.com/meessymeee) – 5⭐ in Python, C++, and Java | Regular problem solver
 
 <!--
 **shreeyyyyy/shreeyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
