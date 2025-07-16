@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hello there👋 I'm Shreya Kusumkar!
+
+🎓 A curious learner and passionate coder  
+💻 Love solving problems on HackerRank  
+🌱 Currently learning: Machine Learning & Python⭐
+🔭 did Working on various easy projects like: Smart Traffic Prediction using Python  
+📈 Building my GitHub & HackerRank streaks daily  
+
 ### 👨‍💻 My Coding Profiles
 
 - 💻 [HackerRank](https://www.hackerrank.com/meessymeee) – 5⭐ in Python, C++, and Java | Regular problem solver
