@@ -2,9 +2,9 @@
 
 🎓 A curious learner and passionate coder  
 💻 Love solving problems on HackerRank  
-🌱 Currently learning: Machine Learning & Python⭐
+🌍 Exploring AI, Python, Machine Learning⭐
 🔭 did Working on various easy projects like: Smart Traffic Prediction using Python  
-📈 Building my GitHub & HackerRank streaks daily  
+🌱 Building my GitHub & HackerRank streaks daily  
 
 ### 👨‍💻 My Coding Profiles
 
