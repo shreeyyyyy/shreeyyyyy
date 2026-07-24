@@ -1,10 +1,10 @@
-### Hello there👋 I'm Shreya Kusumkar!
+### Hello there👋 I'm Shreya !
 
 🎓 A curious learner and passionate coder  
 💻 Love solving problems on HackerRank  
-🌍 Exploring AI, Python, Machine Learning⭐
+🌍 Exploring AI, Python, Machine Learning , AWS ⭐
 🔭 did Working on various easy projects like: Smart Traffic Prediction using Python  
-🌱 Building my GitHub & HackerRank streaks daily  
+🌱 Building my GitHub & HackerRank streaks  
 
 ### 👨‍💻 My Coding Profiles
 
