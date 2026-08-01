@@ -32,52 +32,6 @@
 <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=FFD43B"/>
 </a>
 
-</p>
-
----
-
-<h2 align="center">⚡ Boot Sequence</h2>
-
-<p align="center">
-
-```console
-$ sudo ./boot-profile.sh
-
-███████████████████████████████████
-
-Loading Profile...
-
-✔ Python.....................Loaded
-
-✔ Java.......................Loaded
-
-✔ AWS Cloud..................Loaded
-
-✔ Machine Learning...........Loaded
-
-✔ GitHub.....................Connected
-
-✔ Coffee.....................Ready ☕
-
-------------------------------------
-
-STATUS      : ONLINE 🟢
-
-LOCATION    : India 🇮🇳
-
-MISSION     : Learn → Build → Repeat
-
-TARGET      : Cloud & AI Engineer
-
-------------------------------------
-
-Welcome to my GitHub!
-```
-
-</p>
-
----
-
 <h2 align="center">💻 whoami</h2>
 
 ```yaml
@@ -102,8 +56,7 @@ interests:
 currently_learning:
   - EC2
   - IAM
-  - VPC
-  - Docker
+  - JAVA
   - Python Projects
 
 currently_building:
@@ -118,27 +71,6 @@ motto:
   Build.
   Improve.
 ```
-
----
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-
-💛 Passionate about solving real-world problems using technology.
-
-☁️ Currently exploring the AWS ecosystem and cloud architecture.
-
-🐍 Building projects with Python while strengthening my programming fundamentals.
-
-🤖 Learning Machine Learning and Data Analytics to create intelligent solutions.
-
-🌱 I believe consistency beats perfection.
-
-⚡ Every project teaches something new.
-
-</p>
-
 ---
 
 <p align="center">
@@ -182,14 +114,6 @@ motto:
 
 # <p align="center">📊 GitHub Analytics</p>
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreeyyyyy&show_icons=true&theme=github_dark&hide_border=true&icon_color=FFD43B&title_color=FFD43B&text_color=ffffff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyyyyy&layout=compact&theme=github_dark&hide_border=true&title_color=FFD43B"/>
-
-</p>
-
 <br>
 
 <p align="center">
@@ -205,28 +129,6 @@ motto:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreeyyyyy&theme=github-dark&bg_color=000000&color=FFD43B&line=FFD43B&point=FFFFFF&hide_border=true"/>
-
-</p>
-
----
-
-# <p align="center">🏆 GitHub Trophies</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shreeyyyyy&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15"/>
-
-</p>
-
----
-
-# <p align="center">🐍 Contribution Snake</p>
-
-> **Enable the GitHub Action first.** Once enabled, this animation will appear automatically.
-
-<p align="center">
-
-<img src="https://github.com/shreeyyyyy/shreeyyyyy/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
