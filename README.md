@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="./Yellow and Black Minimalist Business Linkedin Banner.png" alt="Shreya Kusumkar Banner" width="100%">
+  <img src="./Banner.png" alt="Shreya Kusumkar Banner" width="100%">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shreya+Kusumkar;🐍+Python+Developer;☁️+Learning+AWS+Cloud;🤖+Exploring+Machine+Learning;⚡+Code.+Build.+Repeat.;🚀+Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFD43B&center=true&vCenter=true&width=900&lines=🐍+Python+Developer;☁️+Learning+AWS+Cloud;🤖+Exploring+Machine+Learning;⚡+Code.+Build.+Repeat.;🚀+Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
