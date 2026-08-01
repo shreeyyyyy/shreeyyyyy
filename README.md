@@ -1,43 +1,110 @@
-### Hi👋, I'm Shreya! 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Shreya%20Kusumkar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20•%20AWS%20Cloud%20Learner%20•%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
+</p>
 
-🎓 A curious learner and passionate coder  
-💻 Love solving problems on HackerRank  
-🌍 Exploring AI, Python, Machine Learning , AWS ⭐
-🔭 did Working on various easy projects   
-🌱 Building my GitHub & HackerRank streaks  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shreya+Kusumkar;💻+Python+Developer;☁️+AWS+Cloud+Learner;🤖+Machine+Learning+Explorer;🚀+Building+Projects+One+Commit+at+a+Time" />
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaakusumkar@gmail.com) 
+<p align="center">
+  <b>💻 Python Developer • ☁️ AWS Cloud Learner • 🤖 Machine Learning Enthusiast</b>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shreeyyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shreeyyyyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreeyyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="mailto:shreyaakusumkar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shreeyyyyy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/meessymeee">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shreeyyyyy&icon=0&color=4)](https://visitcount.itsvg.in)
 
-### 👨‍💻 My Coding Profiles
+## <p align="center">💻 About Me</p>
 
-- 💻 [HackerRank](https://www.hackerrank.com/meessymeee) – 5⭐ in Python, C++, and Java | Regular problem solver
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**shreeyyyyy/shreeyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> whoami
 
-Here are some ideas to get you started:
+👩 Name       :: Shreya Kusumkar
+🎓 Role       :: Computer Science Student
+🐍 Language   :: Python | Java | C++
+☁️ Cloud      :: AWS
+🤖 Exploring  :: Machine Learning & AI
+📊 Interests  :: Data Analytics | Problem Solving
+🎯 Goal       :: Cloud & AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Status: Learning • Building • Growing 🚀
+```
+
+</div>
+
+---
+
+## <p align="center">⚡ Tech Stack</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,django,aws,git,github,linux,mysql,vscode&theme=dark"/>
+</p>
+
+---
+
+## <p align="center">📊 GitHub Analytics</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreeyyyyy&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyyyyy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shreeyyyyy&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## <p align="center">🏆 GitHub Trophies</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shreeyyyyy&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+</p>
+
+---
+
+## <p align="center">📈 Contribution Graph</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreeyyyyy&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## <p align="center">💻 Coding Profiles</p>
+
+<p align="center">
+<a href="https://www.hackerrank.com/meessymeee">
+<img src="https://img.shields.io/badge/HackerRank-5⭐%20Python%20|%20Java%20|%20C++-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## <p align="center">💭 Dev Quote</p>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shreeyyyyy&style=for-the-badge&color=58A6FF"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</p>
